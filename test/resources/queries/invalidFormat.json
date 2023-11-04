@@ -1,0 +1,12 @@
+{
+	"title": "should reject query with incorrect format",
+	"input": {
+		"WHERE": {
+			"GT": {
+				"sections_avg": 0
+			}
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}
