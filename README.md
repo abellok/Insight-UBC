@@ -1,4 +1,5 @@
 A full stack web development project, including implementing front- and back-end that focuses on managing and quering datasets.
+
 Completed as a school term project with a partner.
 
 
