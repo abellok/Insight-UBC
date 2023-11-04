@@ -1,14 +1,10 @@
-# CPSC 310 Project Repository
+A full stack web development project, including implementing front- and back-end that focuses on managing and quering datasets.
+Completed as a school term project with a partner.
 
-This repository contains starter code for the class project.
-Please keep your repository private.
-
-For information about the project, autotest, and the checkpoints, see the course webpage.
 
 ## Configuring your environment
 
-To start using this project, you need to get your computer configured so you can build and execute the code.
-To do this, follow these steps; the specifics of each step (especially the first two) will vary based on which operating system your computer has:
+Computer configuration to execute code:
 
 1. [Install git](https://git-scm.com/downloads) (v2.X). After installing you should be able to execute `git --version` on the command line.
 
@@ -20,7 +16,6 @@ To do this, follow these steps; the specifics of each step (especially the first
 
 ## Project commands
 
-Once your environment is configured you need to further prepare the project's tooling and dependencies.
 In the project folder:
 
 1. `yarn install` to download the packages specified in your project's *package.json* to the *node_modules* directory.
@@ -30,12 +25,4 @@ In the project folder:
 1. `yarn test` to run the test suite.
 
 1. `yarn pretty` to prettify your project code.
-
-## Running and testing from an IDE
-
-IntelliJ Ultimate should be automatically configured the first time you open the project (IntelliJ Ultimate is a free download through their students program)
-
-### License
-
-While the readings for this course are licensed using [CC-by-SA](https://creativecommons.org/licenses/by-sa/3.0/), **checkpoint descriptions and implementations are considered private materials**. Please do not post or share your project solutions. We go to considerable lengths to make the project an interesting and useful learning experience for this course. This is a great deal of work, and while future students may be tempted by your solutions, posting them does not do them any real favours. Please be considerate with these private materials and not pass them along to others, make your repos public, or post them to other sites online.
 
